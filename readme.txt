@@ -1,1 +1,1 @@
-Look a file I'm going to commit to GIT.. Good times
+Look a file I'm going to commit to GIT.. Good times. More good times
